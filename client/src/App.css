@@ -1,0 +1,10 @@
+.app {
+  min-height: 520px;
+  margin-top: 50px;
+  padding-bottom: 20px;
+}
+
+.cursor-pointer {
+  cursor: pointer
+}
+
